@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuckyHubX/Game/refs/heads/main/Script%20game"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuckyHubX/Game/refs/heads/main/PlaceID"))()
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
         loadstring(game:HttpGet(Execute))()
