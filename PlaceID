@@ -1,4 +1,5 @@
 getgenv().Games = {
   [111347281646457] = "https://raw.githubusercontent.com/LuckyHubX/script/refs/heads/main/Moodeng%20Fruit", -- Moodeng Fruit
+  [76091669089883] = "https://raw.githubusercontent.com/LuckyHubX/script/refs/heads/main/Moodeng%20Fruit", -- Moodeng Fruit Dungeon
   [14259168147] = "https://raw.githubusercontent.com/LuckyHubX/script/refs/heads/main/Basketball%20Legends" -- Basketball Legends
 }
